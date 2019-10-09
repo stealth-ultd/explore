@@ -1,2 +1,2 @@
 # explore
-This is the test directory for OpenFRM
+This is the directory for OpenFRM, currently in test phase.
